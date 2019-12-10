@@ -3,3 +3,36 @@ I'm your frnd
 =======
 Souvik is lead in unix
 >>>>>>> ab83091697956bbd01fc124fb5347b77551e7533
+
+  168  vi user1.txt
+  169  git commit .
+  170  git status
+  171  git add user1.txt
+  172  git status
+  173  cat  user1.txt
+  174  git push
+  175  git pull
+  176  git push
+  177  git commit -am "commit"
+  178  git push
+  179  cat user1.txt
+  180  vi user1.txt
+  181  git commit
+  182  git commit -am "commit 2"
+  183  git push
+  184  git status
+  185  cat user1.txt
+  186  cat user1.txt
+  187  git pull
+  188  cat user1.txt
+  189  history
+  190  vi user1.txt
+  191  vi user1.txt
+  192  ls -la
+  193  rm .user1.txt.swp
+  194  ls -la
+  195  history
+
+
+
+
