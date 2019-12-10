@@ -1,0 +1,151 @@
+com@DESKTOP-DFFJK0F MINGW64 ~/training/Kubernetes/Example1 (master)
+$ history
+    1  help
+    2  git
+    3  git init
+    4  ls
+    5  ll
+    6  pwd
+    7  mkdir training
+    8  pwd
+    9  ls
+   10  cd training/
+   11  git config --global user.name "Rupesh dubey"
+   12  git config --global user.email rupcscdubey@gmail.com
+   13  git config --list
+   14  ls
+   15  ll
+   16  ls
+   17  ls -la
+   18  cd ..cd ..
+   19  exit
+   20  ls
+   21  cd training/
+   22  git config --list
+   23  pwd
+   24  mkdir FirstRepo
+   25  ls
+   26  cd FirstRepo/
+   27  ls
+   28  git init
+   29  ls
+   30  ll
+   31  git init apache
+   32  ll
+   33  touch  test1.txt test2.txt
+   34  ls
+   35  vi test1.txt
+   36  vi test2.txt
+   37  cat test1.txt
+   38  cat test2.txt
+   39  git status
+   40  git add test1.txt test2.txt
+   41  git status
+   42  vi test1.txt
+   43  git status
+   44  git status
+   45  git add test1.txt test2.txt
+   46  git status
+   47  git status
+   48  git
+   49  git commit
+   50  git status
+   51  git commit -am "first commit"
+   52  git status
+   53  git log
+   54  vi test1.txt
+   55  touch test3.txt
+   56  git commit -am "Second commit"
+   57  git status
+   58  git add test1.txt test2.txt test3.txt
+   59  git commit -am "Second commit"
+   60  git log
+   61  git log -oneline
+   62  git log --oneline
+   63  git log
+   64  git
+   65  git help -a
+   66  git log --oneline
+   67  git merger test1.txt test2.txt
+   68  git merge test1.txt test2.txt
+   69  git worktree
+   70  git stash
+   71  git remove
+   72  git --help
+   73  git  rm
+   74  git  rm  -n
+   75  git
+   76  git pull apache
+   77  git push origin master
+   78  git push  master
+   79  ls
+   80  gitremote add origin https://github.com/rupeshdubeyp/FirstRepo-.git
+   81  git remote add origin https://github.com/rupeshdubeyp/FirstRepo-.git
+   82  git push -u origin master
+   83  ssh-keygen -t rsa -C rupcscdubey@gmail.com
+   84  git config --list
+   85  ssh -T git@github.com
+   86  ssh -T git@github.com
+   87  cd ..
+   88  ls
+   89  git clone git@github.com:rupeshdubeyp/secondrepo.git
+   90  ls
+   91  cd secondrepo/
+   92  ls
+   93  git remote -v
+   94  ls
+   95  vi testfile
+   96  git status
+   97  git add .
+   98  git status
+   99  git commit -am
+  100  git commit -am testfile
+  101  git status
+  102  git push
+  103  git remote -v
+  104  ls
+  105  cat testfile
+  106  git commit -am testfile "comit1"
+  107  git commit -am "comit1"
+  108  exit
+  109  ls
+  110  cd training/
+  111  ls
+  112  git remote -v
+  113  ll
+  114  ssh -T git@github.com
+  115  ls
+  116  git remote  add origin https://github.com/souvikbhattacharyya/Blog.git
+  117  ls
+  118  git clone https://github.com/souvikbhattacharyya/Blog.git
+  119  ls
+  120  cd Blog/
+  121  ls
+  122  touch information2.txt
+  123  vi information2.txt
+  124  git status
+  125  git add .
+  126  git status
+  127  git commit -am "Blog with collaraborative" information2.txt
+  128  git commit -am "Blog with collaraborative"
+  129  git push -u origin master
+  130  ls
+  131  git push -u origin master
+  132  git pull https://github.com/souvikbhattacharyya/Blog.git
+  133  ls
+  134  git push -u origin master
+  135  ls
+  136  .
+  137  git cd..
+  138  cd ..
+  139  ls
+  140  git clone https://github.com/rchidana/Kubernetes.git
+  141  ls
+  142  cd Kubernetes/
+  143  ls
+  144  cd Example1/
+  145  ls
+  146  cat Dockerfile
+  147  CD ..
+  148  ls
+  149  history

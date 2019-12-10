@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I'm your frnd
+=======
+Souvik is lead in unix
+>>>>>>> ab83091697956bbd01fc124fb5347b77551e7533
